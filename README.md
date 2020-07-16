@@ -6,6 +6,7 @@ This short lesson summarizes the topics we covered in this section and why they'
 
 ## Key Takeaways
 In this section, we spent time getting comfortable with Pandas and Matplotlib and getting some more practice with exploratory data analysis. Some of the key takeaways:
+
 * For non-trivial datasets you'll usually want to store your data in Pandas data structures rather than native Python lists and dictionaries 
 * Pandas has a range of great features for easily importing data from anything from a csv, an Excel file, json, or a Python dictionary  
 * Pandas Series and DataFrames have a bunch of powerful methods for munging data 
